@@ -1,4 +1,3 @@
 openai
 langchain
 streamlit
-# openaikey - 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
